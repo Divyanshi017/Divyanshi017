@@ -1,14 +1,16 @@
 ## Hi👋, I'm Divyanshi | Aspiring Data Scientist
 
 🚀 **Currently Learning**: Machine Learning | Data Analysis   
-🐍 **Skills**: Python (NumPy, Pandas, Matplotlib), Scikit-learn  
+🐍 **Skills**: Python (NumPy, Pandas, Matplotlib), Scikit-learn, Seaborn, Machine Learning  
 🎯 **Goal**: Building impactful ML models & contributing to open-source  
 
 ## 📚 **Learning Journey**  
 ✅ **Completed**:  
-- Python for Data Science (Pandas, NumPy, Matplotlib)  
+- Python for Data Science (Pandas, NumPy, Matplotlib)
+- Supervised Learning
+  
 📖 **Currently Studying**:  
-- Supervised Learning (Regression, Classification)
+- Building ML projects
 
 ## 📫 **Let’s Connect!**  
 I’m open to collaborations, mentorship, or just chatting about data!  
